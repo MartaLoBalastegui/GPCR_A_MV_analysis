@@ -8,3 +8,6 @@ Code to perform the analysis of 'Analysing the high impact missense variants aff
 **Results:** Data generated from raw data
 
 **Code:** Scripts
+
+
+To consult any doubt: marta.lopez01@estudiant.upf.edu
