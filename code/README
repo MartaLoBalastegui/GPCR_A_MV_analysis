@@ -1,0 +1,5 @@
+Code needed to:
+1. Define the BS and IBS regions of human class A GPCRs.
+2. Obtain all the data for human class A GPCR missense variants.
+3. Analise obtained data.
+4. Required steps to perform MDS of two selected MVs: R173H and C227Y
