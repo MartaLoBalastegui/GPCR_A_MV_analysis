@@ -1,0 +1,9 @@
+Folder to store the separated analysis (heatmaps, barplots,...) by region, BS, IBS, CMs.
+
+1. binding_site_analysis.ipynb
+
+2. intracellular_binding_site_analysis.ipynb
+
+3. conserved_motifs_analysis.ipynb
+
+4. analysis_common_functions.py: store all the common functions to build the heatmaps, barplots, clusters,...
