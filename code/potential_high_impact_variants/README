@@ -2,7 +2,7 @@
    Introduce the possible relation with a disease with DisGeNET and impact prediction scores (SIFT, PolyPhen-2) by VEP.
 
 2. PTM_info: as we have just considered the 'Modified Residue' when retrieving the PTM info in 'retrieve_variants_info_GnomAD_by_classes.ipynb' and we
-   need to add the other types of PTMs (lipidation, glycosylation, etc) we create this new file. This will build a new PTM_IMPACT/PTMs_all.csv and the 
+   need to add the other types of PTMs (lipidation, glycosylation, etc) we have created this new file. This will build a new PTM_IMPACT/PTMs_all.csv and the 
    data will be then added to the 'final' file with all the variant info.
 
 3. Folder remaining2: there were 19 GPCRs that had the ENSG in ch37 and we needed to get the data
