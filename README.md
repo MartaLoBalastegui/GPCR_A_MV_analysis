@@ -10,4 +10,4 @@ Code to perform the 'Analysing the high impact missense variants affecting G-Pro
 **Code:** Scripts
 
 
-To consult any doubt: marta.lopez01@estudiant.upf.edu
+To consult any doubt: marta.balastegui@gmail.com
